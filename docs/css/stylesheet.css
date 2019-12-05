@@ -116,14 +116,14 @@ header {
   padding-bottom: 5em;
   text-align: center;
   color: #801072;
-  background-image: url(images/dividers/4light.svg);
+  background-image: url(../images/dividers/4light.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
   margin-bottom: -1px;
 }
 section#one {
-  background-image: url(images/dividers/4semiLight.svg);
+  background-image: url(../images/dividers/4semiLight.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -132,7 +132,7 @@ section#one {
   color: #801072;
 }
 section#two {
-  background-image: url(images/dividers/4neutral.svg);
+  background-image: url(../images/dividers/4neutral.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -143,7 +143,7 @@ section#two {
 }
 
 section#three {
-  background-image: url(images/dividers/4semiDark.svg);
+  background-image: url(../images/dividers/4semiDark.svg);
 
   background-size: contain;
   background-repeat: no-repeat;
@@ -155,7 +155,7 @@ section#three {
 }
 
 section#four {
-  background-image: url(images/dividers/4dark.svg);
+  background-image: url(../images/dividers/4dark.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -166,7 +166,7 @@ section#four {
 }
 
 section#five {
-  background-image: url(images/dividers/back4.svg);
+  background-image: url(../images/dividers/back4.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -177,7 +177,7 @@ section#five {
 }
 
 section#six {
-  background-image: url(images/dividers/back3.svg);
+  background-image: url(../images/dividers/back3.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -188,7 +188,7 @@ section#six {
 }
 
 section#seven {
-  background-image: url(images/dividers/back2.svg);
+  background-image: url(../images/dividers/back2.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -269,7 +269,7 @@ main section#onev2 {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-image: url(images/dividers/4semiLight.svg);
+  background-image: url(../images/dividers/4semiLight.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
