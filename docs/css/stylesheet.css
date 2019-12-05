@@ -98,7 +98,7 @@ section img.hoverIMG:hover {
   position: relative;
   left: 50%;
   box-shadow: 0px 0px 15vh 10px rgba(0, 0, 0, 0.9);
-  z-index: 99;
+  z-index: 98;
 }
 
 section > h1,
@@ -336,6 +336,7 @@ img#park {
 section h2 {
   font-size: 4em;
   padding-bottom: 1em;
+  z-index: 99;
 }
 
 @media (max-width: 1350px) {
