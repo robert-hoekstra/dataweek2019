@@ -348,19 +348,18 @@ section h2 {
 @keyframes bounce {
   from {
     transform: translate3d(0, 0, 0);
-} to {
-  transform: translate3d(0, -15px, 0);
-}
+  }
+  to {
+    transform: translate3d(0, -15px, 0);
+  }
 }
 
 header h1 img {
-                position: absolute;
-                width: 2.5%;
-                padding-top: 17px;
-                transform: scaleX(-1);
-            animation: bounce 0.4s;
-            animation-iteration-count: infinite;
-            animation-direction: alternate;
+  position: absolute;
+  width: 2.5%;
+  padding-top: 17px;
+  transform: scaleX(-1);
+  animation: bounce 0.4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
-
-
